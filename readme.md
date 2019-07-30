@@ -1,1 +1,1 @@
-this is cloned web version of instagram built using laravel web framework.
+This is cloned desktop web version of instagram built using laravel web framework.
